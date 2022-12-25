@@ -1,3 +1,3 @@
 ### ComicFun
 
-<img src="https://i.ibb.co/k3StCXF/Capture.png" alt="Site preview">
+<img src="https://i.ibb.co/TM9VL1f/Capture.png" alt="Site preview">
