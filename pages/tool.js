@@ -25,7 +25,7 @@ export default function Tool() {
             <div>
               <div className="px-6 py-3 border-b border-gray-300">
                 <Link href="/" className="text-2xl font-semibold text-gray-900">
-                  ComicFun
+                  ComicFun 😂
                 </Link>
               </div>
               <ul className="text-center">
