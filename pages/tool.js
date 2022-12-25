@@ -15,7 +15,7 @@ export default function Tool() {
     <div>
       <Head>
         <title>ComicFun | Cartoon yourself with JavaScript</title>
-        <meta name="description" content="Turn your profile picture into a comic book style portrait! Cartoon yourself with JavaScript." />
+        <meta name="description" content="Turn your profile picture into a comic book style portrait! Cartoonify yourself with JavaScript." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 

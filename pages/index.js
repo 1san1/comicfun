@@ -7,7 +7,7 @@ export default function Home() {
     <div>
       <Head>
         <title>ComicFun | Cartoon yourself with JavaScript</title>
-        <meta name="description" content="Turn your profile picture into a comic book style portrait! Cartoon yourself with JavaScript." />
+        <meta name="description" content="Turn your profile picture into a comic book style portrait! Cartoonify yourself with JavaScript." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -54,7 +54,7 @@ export default function Home() {
                 Cartoonify yourself for free!  Create a free cartoon profile picture, then easily export the photo to use or share on social media.
               </p>
               <div className="my-4">
-                <Link href="/" className="px-8 py-4 mr-4 bg-violet-500 hover:bg-violet-400 text-white rounded transition">
+                <Link href="/tool" className="px-8 py-4 mr-4 bg-violet-500 hover:bg-violet-400 text-white rounded transition">
                   Cartoonify Yourself
                 </Link>
                 <Link href="/" className="px-8 py-4 text-gray-900 underline-offset-2 decoration-2 rounded hover:underline">
