@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Link from 'next/link'
 
-export default function Home() {
+export default function Tool() {
   const uploadImage = () => {
     alert("Coming soon!")
   }
@@ -62,7 +62,7 @@ export default function Home() {
               <path strokeLinecap="round" strokeLinejoin="round" d="M7.217 10.907a2.25 2.25 0 100 2.186m0-2.186c.18.324.283.696.283 1.093s-.103.77-.283 1.093m0-2.186l9.566-5.314m-9.566 7.5l9.566 5.314m0 0a2.25 2.25 0 103.935 2.186 2.25 2.25 0 00-3.935-2.186zm0-12.814a2.25 2.25 0 103.933-2.185 2.25 2.25 0 00-3.933 2.185z" />
             </svg>
           </div>
-          <div onClick={() => uploadImage()} className="flex justify-center items-center w-[calc(100%-39rem)] px-3 outline-gray-900 -outline-offset-2 hover:bg-gray-100 hover:outline-dotted cursor-pointer transition">
+          <div onClick={() => uploadImage()} className="flex justify-center items-center w-[calc(100%-39rem)] px-3 hover:bg-gray-100 cursor-pointer transition">
             <div className="text-center">
               <h1 className="text-3xl font-semibold text-gray-900 mb-4">
                 Click to upload an image
