@@ -34,9 +34,9 @@ export default function Home() {
                 </Link>
               </li>
               <li>
-                <Link href="/" className="underline-offset-2 decoration-2 hover:underline">
+                <a href="https://github.com/brandonbyr4/comicfun" target="_blank" rel="noopener noreferrer" className="underline-offset-2 decoration-2 hover:underline">
                   Github
-                </Link>
+                </a>
               </li>
             </ul>
             <Link href="/tool" className="px-4 py-2 bg-violet-500 hover:bg-violet-400 text-white rounded transition">
