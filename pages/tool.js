@@ -15,7 +15,7 @@ export default function Tool() {
     <div>
       <Head>
         <title>ComicFun | Cartoon yourself with JavaScript</title>
-        <meta name="description" content="Turn your profile picture into a comic book style picture! Cartoon yourself with JavaScript." />
+        <meta name="description" content="Turn your profile picture into a comic book style portrait! Cartoon yourself with JavaScript." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -109,7 +109,7 @@ export default function Tool() {
               </div>
               <div>
                 <input type="email" placeholder="your email adress..." className="bg-gray-900 text-white border-b border-gray-500 mb-6" required />
-                <button type="submit" className="w-full p-3 bg-violet-500 text-white text-center rounded">
+                <button type="submit" className="w-full p-3 bg-violet-500 hover:bg-violet-400 text-white text-center rounded transition">
                   Generate Portrait
                 </button>
               </div>
